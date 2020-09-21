@@ -1,9 +1,9 @@
 # PRJ-UNIP-PIM02-2020-ClinicaMedica
 # UNIVERSIDADE PAULISTA - Campus Araraquara
 
-CST em Análise e Desenvolvimento de Sistemas
-PIM - Projeto Integrado Multidisciplinar
-1o e 2o Período – 2020/2
+CST em Análise e Desenvolvimento de Sistemas.
+PIM - Projeto Integrado Multidisciplinar.
+1o e 2o Período – 2020/2.
 
 # TEMA
 Desenvolvimento de um software de controle para uma pequena rede de
